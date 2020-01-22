@@ -1,10 +1,10 @@
-Welcome to git......
+Welcome togit......!!!!!!!!111
 
 Change 1 – commit with message as “Change 1 in File1 and update”
 
 Change 2 – commit with message as “Change 2 in File1”
 
-
+Conflict by team mate
 
 
 
